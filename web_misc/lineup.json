@@ -1,0 +1,130 @@
+{
+    "air-to-earth": {
+        "metadata": {
+            "_title": "Metadata",
+            "_type": "metadata",
+            "mp4": "",
+            "name": "DJ One",
+            "perma": "metadata"
+        },
+        "setlist": {
+            "_title": "Setlist",
+            "_type": "setlist",
+            "endTime": "2023-09-18T15:40",
+            "startTime": "2023-09-18T14:50",
+            "perma": "setlist"
+        }
+    },
+    "wavedash": {
+        "metadata": {
+            "_title": "Metadata",
+            "_type": "metadata",
+            "mp4": "",
+            "name": "DJ Two",
+            "perma": "metadata"
+        },
+        "setlist": {
+            "_title": "Setlist",
+            "_type": "setlist",
+            "endTime": "2023-09-18T16:21",
+            "startTime": "2023-09-18T15:41",
+            "perma": "setlist"
+        }
+    },
+    "knower": {
+        "metadata": {
+            "_title": "Metadata",
+            "_type": "metadata",
+            "mp4": "",
+            "name": "DJ Three",
+            "perma": "metadata"
+        },
+        "setlist": {
+            "_title": "Setlist",
+            "_type": "setlist",
+            "endTime": "2023-09-18T16:55",
+            "startTime": "2023-09-18T16:21",
+            "perma": "setlist"
+        }
+    },
+    "jacob-collier": {
+        "metadata": {
+            "_title": "Metadata",
+            "_type": "metadata",
+            "mp4": "",
+            "name": "DJ Four",
+            "perma": "metadata"
+        },
+        "setlist": {
+            "_title": "Setlist",
+            "_type": "setlist",
+            "endTime": "2023-09-18T17:41",
+            "startTime": "2023-09-18T16:56",
+            "perma": "setlist"
+        }
+    },
+    "jon-hopkins": {
+        "metadata": {
+            "_title": "Metadata",
+            "_type": "metadata",
+            "mp4": "",
+            "name": "DJ Five",
+            "perma": "metadata"
+        },
+        "setlist": {
+            "_title": "Setlist",
+            "_type": "setlist",
+            "endTime": "2023-09-18T18:31",
+            "startTime": "2023-09-18T17:41",
+            "perma": "setlist"
+        }
+    },
+    "toro-y-moi": {
+        "metadata": {
+            "_title": "Metadata",
+            "_type": "metadata",
+            "mp4": "",
+            "name": "DJ Six",
+            "perma": "metadata"
+        },
+        "setlist": {
+            "_title": "Setlist",
+            "_type": "setlist",
+            "endTime": "2023-09-18T19:22",
+            "startTime": "2023-09-18T18:32",
+            "perma": "setlist"
+        }
+    },
+    "jai-wolf": {
+        "metadata": {
+            "_title": "Metadata",
+            "_type": "metadata",
+            "mp4": "",
+            "name": "DJ Seven",
+            "perma": "metadata"
+        },
+        "setlist": {
+            "_title": "Setlist",
+            "_type": "setlist",
+            "endTime": "2023-09-18T20:12",
+            "startTime": "2023-09-18T19:22",
+            "perma": "setlist"
+        }
+    },
+    "porter-robinson": {
+        "metadata": {
+            "_title": "Metadata",
+            "_type": "metadata",
+            "mp4": "",
+            "name": "DJ Eight",
+            "perma": "metadata"
+        },
+        "setlist": {
+            "_title": "Setlist",
+            "_type": "setlist",
+            "endTime": "2023-09-18T22:03",
+            "startTime": "2023-09-18T20:13",
+            "perma": "setlist"
+        }
+    }
+}
