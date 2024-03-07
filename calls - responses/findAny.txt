@@ -1,0 +1,15 @@
+//Request
+
+{
+    coords: [ 0, 0 ],
+    type: 'community_main',
+    _evt: 'findAny'
+}
+
+//Response
+
+{
+    _evt:
+    'findAny_response',
+    id: 'room id here'
+}

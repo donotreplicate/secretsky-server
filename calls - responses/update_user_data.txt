@@ -1,0 +1,31 @@
+//Request
+
+{
+  "gcID": "{Server generated player ID}",
+  "data": {
+    "name": "Attendee",
+    "uid": "{Client generated user ID}",
+    "image": "assets/images/avatar/placeholder.png",
+    "country": "{Player namme}",
+    "isVR": false,
+    "tutorials": [
+      "environment-move",
+      "environment-chat"
+    ],
+    "SecretSkyAvatar_uColor": [
+      0.9803921568627451,
+      0.4235294117647059,
+      0.6862745098039216
+    ],
+    "gcmedia_speaking": false
+  },
+  "_evt": "update_user_data"
+}
+
+//Response {Broadcast to all players}
+
+{
+    _evt: 'update_user_data',
+    gcID: {Player to update player ID},
+    data: [{Array of new data for that player, it is to fully replace what was already there}]
+}

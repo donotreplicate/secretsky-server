@@ -1,0 +1,13 @@
+//Notes
+From what I understand this can only be sent via the server, and is sent to a specific user to force their client to disconnect
+
+
+//Request
+
+
+
+//Response
+
+{
+    _evt: "force_disconnect"
+}

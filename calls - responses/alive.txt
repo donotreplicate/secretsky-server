@@ -1,0 +1,32 @@
+//Request
+
+{
+    "_evt":"alive"
+}
+
+
+
+
+//Response
+
+{
+  "_evt": "gamecenter_data",
+  "_ping": 1,
+  "data": {
+    "name": "Attendee",
+    "uid": "{Server generated Player ID}",
+    "image": "assets/images/avatar/placeholder.png",
+    "country": "{Client name sent to it via the webserver}",
+    "isVR": false,
+    "tutorials": [
+      "environment-move",
+      "environment-chat"
+    ],
+    "SecretSkyAvatar_uColor": [
+      0.4549019607843137,
+      0.8156862745098039,
+      0.7529411764705882
+    ],
+    "gcmedia_speaking": false
+  }
+}

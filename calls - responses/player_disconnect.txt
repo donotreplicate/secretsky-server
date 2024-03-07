@@ -1,0 +1,12 @@
+//Request
+
+
+
+
+
+//Response
+
+{
+    _evt: "player_disconnect",
+    gcID: "{Server generated player ID}"
+}

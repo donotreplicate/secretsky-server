@@ -1,0 +1,56 @@
+//Request
+
+{
+  "id": "SecretSky",
+  "user": {
+    "name": "Attendee",
+    "uid": "{Client generated UUID}",
+    "image": "assets/images/avatar/placeholder.png",
+    "country": "{Country name, sent to client via webserver.js}",
+    "isVR": false,
+    "tutorials": [
+      "environment-move",
+      "environment-chat"
+    ],
+    "SecretSkyAvatar_uColor": [
+      0.4549019607843137,
+      0.8156862745098039,
+      0.7529411764705882
+    ],
+    "gcmedia_speaking": false
+  },
+  "MAX_IN_ROOM": 150,
+  "_evt": "join"
+}
+
+//Response
+
+{
+  "_evt": "join_response",
+  "success": true,
+  "host": "Secret",
+  "myID": "{Server generated player ID, we re-use the client ID}",
+  "serverId": "Sky",
+  "players": [
+    {
+      "id": "{Server generated player ID}",
+      "data": {
+        "name": "Attendee",
+        "uid": "{Client generated UUID},
+        "image": "assets/images/avatar/placeholder.png",
+        "country": "{Country name, sent to client via webserver.js, we can send corrections here}",
+        "isVR": false,
+        "tutorials": [
+          "environment-move",
+          "environment-chat"
+        ],
+        "SecretSkyAvatar_uColor": [
+          0.4549019607843137,
+          0.8156862745098039,
+          0.7529411764705882
+        ],
+        "gcmedia_speaking": false
+      }
+    }
+  ]
+}

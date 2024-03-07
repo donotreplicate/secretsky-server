@@ -1,0 +1,21 @@
+//Notes
+Requested by the client after they have fully loaded into the client and server so they can start loading the remote players.
+
+
+//Request
+
+{
+    _evt: 'request_state'
+}
+
+
+//Response
+
+{
+    "_evt": "rebroadcast_players",
+    "data": [
+        { id: "{Remote player ID}", data: [{Data array for that player, postion, colour, country, etc etc}] },
+        { id: "{Remote player ID}", data: [{Data array for that player, postion, colour, country, etc etc}] },
+        ...
+    ]
+}
